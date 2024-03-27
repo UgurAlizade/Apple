@@ -1,0 +1,478 @@
+* {
+    margin: 0;
+}
+#support {
+    padding right: ;
+}
+.iphone_image {
+    width: 99.1vw;
+    position: absolute;
+    top: 5vh;
+}
+.texts1 {
+    font-size: 15px;
+    text-align: center;
+    color: #BCBCBD;
+    background-color: #151515;
+    font-size: small;
+    border: solid #151515;
+    border-width: 1vw;
+    
+}
+.logo {
+    position: absolute;
+    top: 1vh;
+    width: 1vw;
+    height: 2.5vh;
+    left: 21vw;
+    top: 1.2vh;
+}
+.h1 {
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 12vh;
+    font-size: 3vw;
+    left: 40vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.b {
+    color: white;
+}
+.h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 45vw;
+    top: 20vh;
+    color: white;
+}
+.Learnmore {
+    position: absolute;
+    left: 47vw;
+    top: 26vh;
+    color: #2997FF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-decoration: none;
+}
+.Learnmore:hover {
+    text-decoration: underline;
+}
+.otheer {
+    color: black;
+    position: absolute;
+    top: 85vh;
+    font-size: 2.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 45vw;
+}
+.wonderfull {
+    position: absolute;
+    top: 91vh;
+    color: black;
+    font-size: xx-large;
+    left: 47vw;
+}
+.Learnmore1 {
+    position: absolute;
+    top: 95vh;
+    color: #2997FF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    text-decoration: none;
+    left: 48vw;
+}
+.Learnmore1:hover {
+    text-decoration: underline;
+}
+.iphonee {
+    position: absolute;
+    left: 30vw;
+    top: 100vh;
+    width: 50vw;
+    height: 50vh;
+}
+.mac:hover {
+    cursor: pointer;
+}
+.iPad:hover {
+    cursor: pointer;
+}
+.iPhone:hover {
+    cursor: pointer;
+}
+.Watch:hover {
+    cursor: pointer;
+}
+.Airpods:hover {
+    cursor: pointer;
+}
+.tv:hover {
+    cursor: pointer;
+}
+.Entertainment:hover {
+    cursor: pointer;
+}
+.support:hover {
+    cursor: pointer;
+}
+.buy:hover {
+    cursor: pointer;
+}
+#Mac:hover {
+    cursor: pointer;
+}
+ #iPad:hover {
+    cursor: pointer;
+}
+#iPhone:hover {
+    cursor: pointer;
+}
+   #Airpods:hover {
+    cursor: pointer;
+}
+ #tv:hover {
+    cursor: pointer;
+}
+#Entertainment:hover {
+    cursor: pointer;
+}
+#Support:hover {
+    cursor: pointer;
+}
+#buy:hover {
+cursor: pointer; 
+}
+#Mac {
+    margin-right: 4vw ;
+}
+#iPad {
+    margin-right: 4vw ;
+}
+#iPhone {
+    margin-right: 4vw ;
+}
+#Watch {
+    margin-right: 4vw ;
+}
+#Entertainment {
+    margin-right: 4vw ;
+}
+#Support {
+    margin-right: 4vw ;
+}
+#tv {
+    margin-right: 4vw ;
+}
+#buy {
+    margin-right: 4vw ;
+}
+.macbook {
+    position: absolute;
+    top: 200vh;
+    left: 21vw;
+    width: 65vw;
+    height: 30vh;
+}
+.h {
+    color:black;
+    position: absolute;
+    top: 165vh;
+    left: 39vw;
+    font-size: 3.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.ccc {
+    color: black;
+    position: absolute;
+    top: 175vh;
+    left: 40.5vw;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cc {
+    color: gray;
+    position: absolute;
+    top: 182vh;
+    left: 43vw;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aaa {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 189vh;
+    left: 47vw;
+    color: #2997FF;
+    text-decoration: none;
+    font-size: x-large;
+}
+.aaa:hover {
+    text-decoration: underline;
+}
+.applewatch {
+    position: absolute;
+    top: 250vh;
+    left: 1vw;
+    width: 48.76vw;
+}
+.tablett {
+    position: absolute;
+    top: 250vh;
+    left: 50.2vw;
+    height: 60.2vh;
+    width: 48vw;
+}
+.applebuds {
+    position: absolute;
+    top: 311vh;
+    left: 1vw;
+}
+.wacht {
+    position: absolute;
+    top: 311vh;
+    left: 50vw;
+}
+.sdas {
+    position: absolute;
+    top: 372vh;
+    left: 1vw;
+}
+.tttv {
+    position: absolute;
+    top: 372vh;
+    left: 50vw;
+}
+.logooo {
+    position: absolute;
+    top: 256.5vh;
+    left: 20vw;
+}
+.w {
+    color: white;
+    position: absolute;
+    top: 257vh;
+    left: 22vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.EG {
+    color:brown;
+    position: absolute;
+    top: 262vh;
+    left: 23vw;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: smaller;
+}
+.leap {
+    color: white;
+    position: absolute;
+    top: 264.5vh;
+    left: 20vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+.l {
+    text-decoration: none;
+    color: #2997FF;
+    position: absolute;
+    top: 268vh;
+    left: 22vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.padpro {
+    color: white;
+    position: absolute;
+    top: 256vh;
+    left: 70vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+.m2 {
+    position: absolute;
+    left: 78vw;
+    top: 261vh;
+}
+.Supercharge{
+    color: white;
+    position: absolute;
+    top: 261.5vh;
+    left: 68.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2vw;
+}
+.le {
+    text-decoration: none;
+    color: #2997FF;
+    position: absolute;
+    top: 265.5vh;
+    left: 72vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.le:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.l:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.pro {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 318vh;
+    left: 21vw;
+}
+.rebuild {
+    position: absolute;
+    color: white;
+    top: 323.5vh;
+    left: 19vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1vw;
+}
+.lea:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.lea {
+    text-decoration: none;
+    color: #2997FF;
+    position: absolute;
+    top: 327.5vh;
+    left: 23vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logoooo {
+    position: absolute;
+    top: 318vh;
+    left: 70vw;
+}
+.lo {
+    color: black;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 318vh;
+    left: 72vw;
+}
+.SE {
+    color: brown;
+    position: absolute;
+    top: 322.5vh;
+    left: 74vw;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: smaller;
+}
+.deal {
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    top: 324.5vh;
+    left: 69.5vw;
+    font-size: 1.1vw;
+}
+.lear {
+    text-decoration: none;
+    color: #2997FF;
+    position: absolute;
+    top: 327.5vh;
+    left: 72vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lear:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.what {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 379vh;
+    left: 21vw;
+}
+.s {
+    position: absolute;
+    color: black;
+    top: 384.5vh;
+    left: 16vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1vw;
+}
+.learn:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.learn {
+    text-decoration: none;
+    color: #2997FF;
+    position: absolute;
+    top: 388.5vh;
+    left: 23vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.app {
+    color: black;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 379vh;
+    left: 71vw;
+}
+.tttt {
+    position: absolute;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 378.7vh;
+    left: 72.5vw;
+    font-size: 2vw;
+    z-index: 2;
+}
+.dag {
+    position: absolute;
+    top: 380vh;
+    left: 74.2vw;
+    z-index: 1
+}   
+.def {
+    position: absolute;
+    top: 385.5vh;
+    left: 68vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1vw;
+    color: black;
+}
+.learn-m {
+    text-decoration: none;
+    color: #2997FF;
+    position: absolute;
+    top: 389vh;
+    left: 71.5vw;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.learn-m:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.top-text {
+    position: fixed;
+    width: 100vw;
+    z-index: 10;
+}
+#buy {
+    padding-left:4vw ;
+}
+.logo {
+    z-index: 11;
+    position: absolute;
+    top: 1.5vh;
+    left: 19vw;
+}
+.Watch:hover {
+    cursor: pointer;
+}
+#Watch:hover,
+.Watch:hover {
+    cursor: pointer;
+}
